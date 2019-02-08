@@ -2,4 +2,4 @@
 Web based player list for the game Soldat
 
 
-Demo http://whoisplayingsoldatrn.tk
+Demo http://whoisplayingsoldatrn.ml
